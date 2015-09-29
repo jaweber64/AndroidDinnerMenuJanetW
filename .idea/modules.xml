@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DinnerMenu.iml" filepath="$PROJECT_DIR$/DinnerMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dinnermenulib/dinnermenulib.iml" filepath="$PROJECT_DIR$/dinnermenulib/dinnermenulib.iml" />
+    </modules>
+  </component>
+</project>
